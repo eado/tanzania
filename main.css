@@ -5,7 +5,7 @@
 #wrapper {
   width: 75%;
   margin: 0 auto;
-  padding-top: 40%
+  padding-top: 35vh;
 }
 
 #header {
@@ -15,7 +15,7 @@
 
 #bodytext {
   font-size: 1em;
-  color: black;
+  margin-top: 90vh
   color: white;
 }
 
