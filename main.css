@@ -5,20 +5,21 @@
 #wrapper {
   width: 75%;
   margin: 0 auto;
-  padding-top: 35vh;
+  padding-top: 40vh;
 }
 
 #header {
   font-size: 2.75em;
-  color: light-gray;
+  color: black;
   padding: 20px;
   background-color: white;
   display: block;
+  text-align: center;
 }
 
 #bodytext {
   font-size: 1em;
-  margin-top: 70vh;
+  margin-top: 55vh;
   color: light-gray;
 }
 
