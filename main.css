@@ -4,6 +4,7 @@
 }
 
 #wrapper {
+  overflow: hidden;
   width: 75%;
   margin: 0 auto;
   padding-top: 40vh;
@@ -35,6 +36,7 @@
 .bodyparagraph {
   font-size: 1em;
   color: black;
+  padding: 7px;
   background-color: white;
   margin-bottom: 60vh;
 }
