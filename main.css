@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar { 
+    display: none; 
+}
+
 #wrapper {
   overflow: hidden;
   width: 75%;
