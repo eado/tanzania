@@ -1,4 +1,5 @@
-# globetrot
+# tanzania
+
 A website, no description needed.
 
 Actually, a website to advertise a fictional service project to Tanzania. 
