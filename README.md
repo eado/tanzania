@@ -1,7 +1,8 @@
 # tanzania
 
-A website, no description needed.
+A website to advertise a fictional service project to Tanzania. 
 
-Actually, a website to advertise a fictional service project to Tanzania. 
+Homemade HTML and CSS. 
 
-Home-rolled HTML and CSS.
+It's still got some bugs; you can help out by adding issues. 
+
