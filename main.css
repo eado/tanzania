@@ -8,6 +8,7 @@
 }
 
 #wrapper {
+  opacity: 0.8;
   overflow: hidden;
   width: 75%;
   margin: 0 auto;
