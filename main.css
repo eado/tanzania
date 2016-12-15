@@ -18,7 +18,7 @@
 
 #header {
   font-size: 2.75em;
-  color: black;
+  color: #b7531f;
   padding: 20px;
   background-color: white;
   position: absolute;
@@ -33,13 +33,12 @@
 
 .bodyheader {
   font-size: 1.75em;
-  color: black;
+  color: #b7531f;
   padding: 15px;
   background-color: white;
 }
 
 .bodyparagraph {
-  align: right;
   font-size: 1em;
   color: black;
   padding: 15px;
