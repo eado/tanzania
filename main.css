@@ -51,8 +51,8 @@
 
 .body-paragraph img {
   float: right;
-  width: 25vw;
-  height: 25vh;
+  width: 25%;
+  height: 25%;
   object-fit: cover;
 }
 
