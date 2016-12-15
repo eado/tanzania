@@ -38,6 +38,7 @@
 }
 
 .bodyparagraph {
+  align: right;
   font-size: 1em;
   color: black;
   padding: 15px;
@@ -45,14 +46,14 @@
   margin-bottom: 60vh;
 }
 
-.body-paragraph p {
+.body-paragraph {
   float: left;
 }
 
 .image {
-  position: absolute;
-  float: right;
-  width: 25%;
+  display: block;
+  margin: auto;
+  width: 50%;
   height: 25%;
   object-fit: cover;
 }
