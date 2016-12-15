@@ -43,6 +43,14 @@
   padding: 15px;
   background-color: white;
   margin-bottom: 60vh;
+  float: left;
+}
+
+.body-image {
+  float: right;
+  width: 15vw;
+  height: 15vh;
+  object-fit: cover;
 }
 
 #background-image {
